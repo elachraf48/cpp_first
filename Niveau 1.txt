@@ -1,0 +1,22 @@
+-Afficher "Bonjour le monde".
+
+algoritheme Afficher "Bonjour le monde"
+    Debute
+        ecrire "bonjour le monde"
+    Fin
+
+-Calculer la somme de deux nombres donnés.
+algoritheme sumdeuxnumber
+    variable:
+        a,b:entier;
+    Debute
+        ecrite "ecrire nomber A :"
+        lire a
+        ecrire "ecrire nomber B :"
+        lire b 
+        ecrire "sum est :"a+b 
+    fin
+    
+-Vérifier si un nombre est pair ou impair.
+
+    
